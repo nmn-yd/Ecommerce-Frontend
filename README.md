@@ -15,7 +15,7 @@
 ## Description
 An ecommerce store built with MERN stack, and utilizes third party api's like Paypal Developer Api's for payment gateway. User can register or signin anytime and select the items to be added in the cart, Proceed to payment, fill the shipping details , select a payment method, and finally place the order , PayPal Button will appear and you can click on it to proceed to payment gateway and make a payment successfully
 
-Link to Ecommerce-Backend: https://github.com/vaibhav477/Ecommerce-Backend
+Link to Ecommerce-Backend: https://github.com/The-Strugglerr/Ecommerce-Backend
 
 ## Features
 1) Full featured shopping cart
@@ -65,4 +65,4 @@ Link to Ecommerce-Backend: https://github.com/vaibhav477/Ecommerce-Backend
 9. Make a Payment 
 ![9](https://user-images.githubusercontent.com/62941019/129469226-da27fa95-c246-4c39-bfcd-aa04c61d94e0.png)
 
-<p align="center"> Made with ❤ by <a href="https://github.com/vaibhav477">Vaibhav Aggarwal</a></p>
+<p align="center"> Made with ❤ by <a href="https://github.com/The-Strugglerr">Naman Yadav</a></p>
